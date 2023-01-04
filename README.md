@@ -1,7 +1,7 @@
 
 # Hola, soy Joaquín 👋!
 
-🚀 Soy estudiante de Full Stack Web Developer en Soy Henry y estudiante de Ingeniería Electrónica (tercer año) en la Universidad Tecnológica Nacional (Argentina).
+🚀 Soy Full Stack Web Developer en Soy Henry y estudiante de Ingeniería Electrónica (tercer año) en la Universidad Tecnológica Nacional (Argentina).
 
 👨‍💻 Tengo experiencia trabajando con HTML5, CSS3, JavaScript, Node.js, Express, React.js, Redux, SQL y Sequelize. 
 
