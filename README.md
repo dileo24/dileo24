@@ -5,7 +5,7 @@
 
 👨‍💻 Tengo experiencia trabajando con HTML5, CSS3, JavaScript, Node.js, Express, React.js, Redux, SQL y Sequelize. 
 
-🏆 Aspiro a conseguir mi primer trabajo en IT, que me permita continuar con mi desarrollo personal y profesional, además de ponerme a prueba constantemente para seguir aprendiendo. Soy una persona enfocadas en mejorar el trabajo de equipo a través de un ida y vuelta fluido con mis compañeros, me adapto rápido a los entornos desconocidos y me dispongo siempre a aprender todo lo que me ayude a mejorar mi trabajo.
+🏆 Aspiro a conseguir mi primer trabajo en IT, que me permita continuar con mi desarrollo personal y profesional, además de ponerme a prueba constantemente para seguir aprendiendo. Soy una persona enfocada en mejorar el trabajo de equipo a través de un ida y vuelta fluido con mis compañeros, me adapto rápido a los entornos desconocidos y me dispongo siempre a aprender todo lo que me ayude a mejorar mi trabajo.
 
 ## 🔗 Links
 <!-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://carlosislas.cf/) -->
@@ -35,7 +35,7 @@
 ## My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dileo24&theme=highcontrast&hide_border=true&locale=es&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?dileo24=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dileo24&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
  ## Contador de Visitas 👀
 <p align="center"><img src="https://profile-counter.glitch.me/{Caarlos94}/count.svg" alt="Caarlos94 :: Contador de Visitantes" /></p>
