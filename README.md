@@ -39,6 +39,3 @@
   
  ## Contador de Visitas 👀
 <p align="center"><img src="https://profile-counter.glitch.me/{Caarlos94}/count.svg" alt="Caarlos94 :: Contador de Visitantes" /></p>
-#� �d�i�l�e�o�2�4�
-�
-�
