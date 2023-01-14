@@ -8,9 +8,8 @@
 🏆 Aspiro a conseguir mi primer trabajo en IT, que me permita continuar con mi desarrollo personal y profesional, además de ponerme a prueba constantemente para seguir aprendiendo. Soy una persona enfocada en mejorar el trabajo de equipo a través de un ida y vuelta fluido con mis compañeros, me adapto rápido a los entornos desconocidos y me dispongo siempre a aprender todo lo que me ayude a mejorar mi trabajo.
 
 ## 🔗 Links
-<!-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://carlosislas.cf/) -->
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://dileoportafolio.vercel.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquindileo)
-<!-- [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CarlosIs5294) -->
 
 ## Tech Stack
 
