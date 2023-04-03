@@ -37,4 +37,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dileo24&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
  ## Contador de Visitas 👀
-<p align="center"><img src="https://profile-counter.glitch.me/{Caarlos94}/count.svg" alt="Caarlos94 :: Contador de Visitantes" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{dileo24}/count.svg" alt="dileo24 :: Contador de Visitantes" /></p>
