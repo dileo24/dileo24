@@ -1,7 +1,7 @@
 
 # Hola, soy Joaquín 👋!
 
-🚀 Soy Full Stack Web Developer en el "Centro de Investigación y Desarrollo de Sistemas" de la Universidad Tecnológica Nacional y estudiante de Ingeniería en Sistemas.
+🚀 Soy Full Stack Developer en el "Centro de Investigación y Desarrollo de Sistemas" de la Universidad Tecnológica Nacional y estudiante de Ingeniería en Sistemas.
 
 👨‍💻 Tengo experiencia trabajando con HTML5, CSS3, JavaScript, Node.js, Express, React.js, Redux, SQL y Sequelize. Aplicando metodologías ágiles y haciendo uso de herramientas como Trello, Figma, Photoshop. 
 
