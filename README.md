@@ -13,7 +13,7 @@
 
 ## Tech Stack
 
-**Client:** HTML5, CSS3, JavaScript, React, Redux
+**Client:** HTML5, CSS3, JavaScript, React, Redux, Tailwind, TypeScript, SCSS/SASS, Angular
 
 **Server:** Node.js, Express.js, Sequelize
 
