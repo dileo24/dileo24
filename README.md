@@ -32,9 +32,7 @@
 
 ## My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dileo24&theme=highcontrast&hide_border=true&locale=es&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dileo24&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username={dileo24}&theme={tokyonight}&exclude={exclude}
   
  ## Contador de Visitas 👀
 <p align="center"><img src="https://profile-counter.glitch.me/{dileo24}/count.svg" alt="dileo24 :: Contador de Visitantes" /></p>
