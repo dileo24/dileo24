@@ -32,6 +32,7 @@
 
 ## My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dileo24&theme=highcontrast&hide_border=true&locale=es&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dileo24)](https://github.com/dileo24/github-readme-stats)
   
  ## Contador de Visitas 👀
