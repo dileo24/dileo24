@@ -13,9 +13,9 @@
 
 ## Tech Stack
 
-**Client:** HTML5, CSS3, JavaScript, React, Redux, Tailwind, TypeScript, SCSS/SASS, Angular
+**Client:** HTML5, CSS3, JavaScript, React, Redux, Tailwind, TypeScript, SCSS/SASS, Angular, Laravel
 
-**Server:** Node.js, Nest.js, Express.js, Sequelize
+**Server:** Node.js, Nest.js, Express.js, Sequelize, PHP
 
 **Database:** PostgreSQL
 
