@@ -15,7 +15,7 @@
 
 **Client:** HTML5, CSS3, JavaScript, React, Redux, Tailwind, TypeScript, SCSS/SASS, Angular
 
-**Server:** Node.js, Express.js, Sequelize
+**Server:** Node.js, Nest.js, Express.js, Sequelize
 
 **Database:** PostgreSQL
 
